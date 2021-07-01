@@ -1,0 +1,3 @@
+/home/jojie/projects/learning/cTut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jojie/projects/learning/cTut/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jojie/projects/learning/cTut/cmake-build-debug/CMakeFiles/cTut.dir

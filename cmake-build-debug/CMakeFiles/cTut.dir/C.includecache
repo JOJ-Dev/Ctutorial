@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jojie/projects/learning/cTut/main.c
+stdio.h
+-
+main.h
+/home/jojie/projects/learning/cTut/main.h
+
+/home/jojie/projects/learning/cTut/main.h
+
+/home/jojie/projects/learning/cTut/test.c
+
