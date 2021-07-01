@@ -7,5 +7,4 @@ include_directories(.)
 
 add_executable(cTut
         tutorial1.c
-        tutorial1.h
         )

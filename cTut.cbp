@@ -73,9 +73,6 @@
 		<Unit filename="/home/jojie/projects/learning/cTut/tutorial1.c">
 			<Option target="cTut"/>
 		</Unit>
-		<Unit filename="/home/jojie/projects/learning/cTut/tutorial1.h">
-			<Option target="cTut"/>
-		</Unit>
 		<Unit filename="/home/jojie/projects/learning/cTut/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
